@@ -8,7 +8,7 @@ Then write one sentence describing what the program does.`
 
 // Solution:
 
-// This is simple javvScript that check weather the number is odd or not
+// This is simple javaScript that check weather the number is odd or not
 function isEvenOdd(n){
     // Here  i am adding a simple straightforward Condition
     if (n%2===0){
